@@ -6,6 +6,7 @@ A ticket is a grid of 3 rows by 9 columns. The first column contains numbers fro
 
 Each column contains one, two, or three numbers, in increasing order downwards. Each row contains exactly 5 numbers (and hence 4 blanks).
 
+![Housie ticket example](https://i.etsystatic.com/25144557/r/il/b8a290/3753597032/il_794xN.3753597032_4j6n.jpg)
 
 ## **TO DO**
 
